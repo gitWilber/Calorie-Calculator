@@ -1,9 +1,9 @@
 # tdee-calculator
 
-Hello everyone!
+Hello!
 
 Wilber here and this is my TDEE Calculator I created!
-TDEE stands for Total Daily Energy Expenditure, which is a method to calculate how many calories your body burns daily.
+TDEE stands for Total Daily Energy Expenditure, which is a method to calculate how many calories a body burns daily.
 If one is looking to lose or gain weight, it is recommended to base caloric intake off of your estimated TDEE.
 
 I used the trusted Mifflin St. Jeor equation in order to calculate BMR and TDEE as accurately as possible.
