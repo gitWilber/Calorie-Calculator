@@ -1,18 +1,4 @@
-# TDEE-Calculator
+# TDEE Calculator
 
-Hello!
-
-Wilber here and this is my TDEE Calculator I created!
-TDEE stands for Total Daily Energy Expenditure, which is a method to calculate how many calories a body burns daily.
-If one is looking to lose or gain weight, it is recommended to base caloric intake off of your estimated TDEE.
-
-I used the trusted Mifflin St. Jeor equation in order to calculate BMR and TDEE as accurately as possible.
-By using user input, classes, functions, accessors, mutators, and objects, the desired calculations are obtained.  
-
-The main class will contain the main function, but it calls the menu function in the menu.cpp file.
-Taking a look at the menu.cpp file will give you an idea of what data is needed by the user.
-The user.cpp file takes the users data and calculates his/her TDEE.
-
-Give it a try on any C++ supported IDE!
-
-Thanks!
+# Discription
+This program helps users estimate the number of calories their body burns in a day using the widely accepted Mifflin St. Jeor equation. TDEE, short for Total Daily Energy Expenditure, is a crucial factor in managing and planning a person's diet and fitness goals. By inputting basic information like age, gender, weight, height, and activity level, the program calculates the TDEE and provides an accurate estimate of the daily calorie expenditure. This project simplifies the process of understanding one's energy needs and supports individuals in maintaining a healthy lifestyle.
