@@ -1,4 +1,4 @@
-# tdee-calculator
+# TDEE-Calculator
 
 Hello!
 
